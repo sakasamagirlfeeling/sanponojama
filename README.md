@@ -26,6 +26,8 @@
 <br>
 ‎‎ ‎‎ ‎ ‎ ‎   ‎ あたしはカレーライスだよ
 <br>
+<br>
+<br>
 <p align="center">
 im tired
 </p>
